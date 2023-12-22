@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nurrizkiamalia
 - 👀 I’m interested in web design and website development & SQL
 - 📫 How to reach me: rizkiamel9@gmail.com
--                     nurrizkiamalia.id
+nurrizkiamalia.id
   
 
 <!---
