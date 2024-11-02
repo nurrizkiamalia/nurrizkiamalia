@@ -1,6 +1,6 @@
 Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a strong interest in building scalable, efficient, and innovative solutions. With a focus on both frontend and backend technologies, I enjoy exploring various aspects of software engineering.
+Welcome to my GitHub profile! I'm Amalia, a passionate software engineer with a strong interest in building scalable, efficient, and innovative solutions. With a focus on both frontend and backend technologies, I enjoy exploring various aspects of software engineering.
 🔭 My Tech Stack
 
 Here’s a glimpse of the technologies I frequently use in my projects:
@@ -11,7 +11,7 @@ Here’s a glimpse of the technologies I frequently use in my projects:
 
 📂 My Repositories
 
-With over 40 repositories and growing, my work spans from full-stack applications to specialized libraries. Most of my projects feature JavaScript, React, Java, and SQL databases, with various approaches and implementations to address different use cases.
+With over 40 repositories and growing, my work spans from full-stack applications to specialized libraries. Most of my projects feature TypeScript, Next.js, Java, and SQL databases, with various approaches and implementations to address different use cases.
 🌱 Currently Exploring
 
 I'm continuously expanding my knowledge, especially in:
@@ -22,8 +22,8 @@ I'm continuously expanding my knowledge, especially in:
 
 🚀 Let's Connect!
 
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories below!l.com
-nurrizkiamalia.id
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories below!
+https://rizkiamalia.space
   
 
 <!---
